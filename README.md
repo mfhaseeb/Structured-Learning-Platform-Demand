@@ -27,13 +27,14 @@ This project investigates the market demand for a structured, high-quality digit
 
 ---
 
-## 📊 Key Findings
+### 📊 Key Findings
 
-* **Lecture Sufficiency (Q4):** We rejected the null hypothesis that the median effectiveness of class lectures is average (3). The p-value (~0.00978) was less than 0.05, and the distribution showed a slight left-skewness, suggesting a minority of students rate lectures as poor/very poor.
-* **Existing Resource Sufficiency (Q7 in the Report, Q3 in Research Questions):** We failed to reject the null hypothesis that the median sufficiency of existing free online resources is 3 (moderately sufficient). The p-value was high (0.7205).
-* **Need for a Structured Platform (Ordered Logistic Regression):**
-    * There is a **significant inverse relationship** between the need for a structured platform ($\text{Q8}$) and the sufficiency of class lectures ($\text{Q4}$) ($p=0.0003$).
-    * There is a **significant inverse relationship** between the need for a structured platform ($\text{Q8}$) and the sufficiency of existing online digital content ($\text{Q7}$) ($p=0.0003$).
+| Test / Variable | Result | P-value | Conclusion |
+| :--- | :--- | :--- | :--- |
+| **Q4 Wilcoxon Test** (Lecture Sufficiency) | Median ≠ 3 | ~0.00978 | **Reject H₀**: Ratings are significantly different from "Average". |
+| **Q7 Wilcoxon Test** (Existing Resources) | Median = 3 | 0.7205 | **Fail to Reject H₀**: Median is statistically "Moderately Sufficient". |
+| **Q4 in OLR** (Lecture Sufficiency) | Inverse Relationship | 0.0003 | **Significant** (Lower lecture sufficiency leads to Higher demand for platform). |
+| **Q7 in OLR** (Resource Sufficiency) | Inverse Relationship | 0.0003 | **Significant** (Lower resource sufficiency leads to Higher demand for platform). |
 
 ---
 
