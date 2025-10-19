@@ -42,4 +42,4 @@ This project investigates the market demand for a structured, high-quality digit
 
 It is clear from the model that there is a significant relationship between the need for a structured online platform ($\text{Q8}$), the sufficiency of lectures ($\text{Q4}$), and the sufficiency of existing digital contents ($\text{Q7}$).
 
-**Recommendation:** The company (Edu Era) should proceed with the platform launch, focusing on students of universities/colleges where the lecture quality is low or insufficient to cover the syllabus. For that purpose, the company may consider carrying out a survey in a few specific university or colleges.
+**Recommendation:** The company (Edu Era) should proceed with the platform launch, focusing on students of universities/colleges/regions where the lecture quality is low or insufficient to cover the syllabus. For that purpose, the company may consider carrying out a survey in a few specific university/colleges/regions.
