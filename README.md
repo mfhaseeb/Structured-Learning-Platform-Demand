@@ -22,7 +22,7 @@ This project investigates the market demand for a structured, high-quality digit
 | **Variables** | 8 variables, including open-ended and closed-ended questions. |
 | **Scales Used** | Likert scale (1-5) for questions 4, 6, and 8; binary (Yes/No or 1/0) for question 5. |
 | **Analysis Tools** | Python (Pandas, Seaborn, Matplotlib) within Jupyter Notebook, with limited use of Excel. |
-| **Statistical Tests** | Wilcoxon Signed-Rank Test and Ordered Logistic Regression. |
+| **Statistical Tests** | Wilcoxon Signed-Rank Test and Ordered Logistic Regression(OLR). |
 | **Key Finding (Q7)** | Data for Question 7 (time spent searching for content) was unreliable due to questionnaire flaws and was excluded from statistical analysis. |
 
 ---
