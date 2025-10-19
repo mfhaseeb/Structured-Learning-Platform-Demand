@@ -40,14 +40,6 @@ This project investigates the market demand for a structured, high-quality digit
 
 ## ✅ Conclusion and Recommendation
 
-It is clear from the model that a significant relationship exists between the need for a structured platform ($\text{Q8}$) and the lack of sufficiency in both lectures ($\text{Q4}$) and existing digital content ($\text{Q7}$).
+It is clear from the model that there is a significant relationship between the need for a structured online platform ($\text{Q8}$), the sufficiency of lectures ($\text{Q4}$), and the sufficiency of existing digital contents ($\text{Q7}$).
 
-**Recommendation:** The company (Edu Era) should proceed with the platform launch, focusing on universities/colleges where lecture quality is low or insufficient to cover the syllabus.
-
----
-
-## 📂 Repository Structure
-
-* `report/`: Contains the full project report (`BR_Project_Report_pdf11_.pdf`).
-* `data/`: Contains the raw survey data (to be uploaded as `survey_data.csv`).
-* `analysis/`: Contains the Jupyter Notebook (`demand_analysis.ipynb`) with all the Python code for data processing, visualization, and statistical modeling.
+**Recommendation:** The company (Edu Era) should proceed with the platform launch, focusing on students of universities/colleges where the lecture quality is low or insufficient to cover the syllabus. For that purpose, the company may consider carrying out a survey in a few specific university or colleges.
